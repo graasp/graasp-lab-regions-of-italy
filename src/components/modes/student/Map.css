@@ -1,0 +1,6 @@
+path:hover {
+  fill: #fff;
+}
+.regione {
+  transition: all 200ms ease-in-out;
+}
